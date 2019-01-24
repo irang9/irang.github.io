@@ -3,4 +3,4 @@
 
 Hi.
 
-[index](index)
+[/index.html](index)
