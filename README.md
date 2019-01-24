@@ -3,4 +3,4 @@
 
 Hi.
 
-[/index.html](index)
+[http://kukie.github.io](index)
