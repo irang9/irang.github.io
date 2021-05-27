@@ -3,5 +3,5 @@
 
 Hi.
 
-[https://kukie.github.io](index)
+https://kukie.github.io
 
